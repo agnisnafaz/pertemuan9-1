@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "576081362325",
+    "project_id": "pertemuan9-50574",
+    "storage_bucket": "pertemuan9-50574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576081362325:android:6eca7d8dba70749afb4a9c",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576081362325-7l4cqps2omk3dsbhrj46fmc9v7dthk20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pertemuan9",
+            "certificate_hash": "9b2c48d3f1165460bc051d89591983b2409ab45a"
+          }
+        },
+        {
+          "client_id": "576081362325-tbp6p4v7hqucac1gi50g3on50t9m9hvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgrL3g1tOd7w1JbHctUzkFZS0TA76tj8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576081362325-tbp6p4v7hqucac1gi50g3on50t9m9hvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
